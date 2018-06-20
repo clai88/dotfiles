@@ -15,11 +15,6 @@ setopt AUTO_CD
 
 
 
-export GITHUB_TOKEN="45d7fa23d02294e963c664b9ae70d6cbec5d596c"
-export ZILLOW_TOKEN="X1-ZWz19mbl7rvle3_7rj5m"
-export WALK_SCORE_TOKEN="945f4ad3474974b065c6b51956241de2"
-export GROUPME_TOKEN="kIfXwZDFbKfllA7ThWDjwUVWuw0qPCuEBoMNvsxB"
-
 
 # aliases
 alias tiyo='cd ~/Documents/The_Iron_Yard'
