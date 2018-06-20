@@ -1,0 +1,23 @@
+[core]
+    editor = vim
+        excludesfile = ~/.gitignore
+[filter "lfs"]
+	clean = git lfs clean %f
+	smudge = git lfs smudge %f
+	required = true
+[push]
+	default = simple
+[credential]
+	helper = osxkeychain
+[user]
+	name = Chris
+	email = clai88@gmail.com
+[core]
+	excludesfile = /Users/chris/.gitignore_global
+[tig]
+    line-graphics = utf-8
+    mouse = true
+    mouse-scroll = 3
+    main-view = line-number:no,interval=5 date:relative id:yes author:full commit-title:yes,graph,refs,overflow=no
+[tig "color"]
+    cursor = white blue bold
