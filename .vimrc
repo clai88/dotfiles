@@ -147,7 +147,13 @@ let g:ctrlp_prompt_mappings = {
 " let &t_SR = "\<Esc>]50;CursorShape=2\x7"
 " let &t_EI = "\<Esc>]50;CursorShape=0\x7"
 
-
+iabbrev adn and
+iabbrev tehn then
+iabbrev waht what
+iabbrev teh the
+iabbrev edn end
+iabbrev fi if
+iabbrev lenght length
 
 
 " ## added by OPAM user-setup for vim / base ## 93ee63e278bdfc07d1139a748ed3fff2 ## you can edit, but keep this line
